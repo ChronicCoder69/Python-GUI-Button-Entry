@@ -1,2 +1,2 @@
 # Python-GUI-Button-Entry
-Button Entries' creation using Python GUI 
+Button Entries' creation using Python GU
